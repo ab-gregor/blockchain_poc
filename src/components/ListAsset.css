@@ -1,0 +1,14 @@
+.asset-listing-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.asset-listing-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

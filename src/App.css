@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+.clickable-header {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.clickable-header:hover {
+  color: green
+}
 
 @keyframes App-logo-spin {
   from {

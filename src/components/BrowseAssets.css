@@ -1,0 +1,13 @@
+.forSaleAssets{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.clickable-header {
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .clickable-header:hover {
+    color: green
+  }
